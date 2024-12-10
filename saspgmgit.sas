@@ -4,6 +4,3 @@ data test1;
 temp_filed="test";
 run;
 
-
-proc sort; by name;
-    run;
